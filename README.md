@@ -6,16 +6,16 @@ Created a Android application, which convert user designated currency to user me
 <b>Countries selection through Flags Dropdown<b><br>
  <b>Displaying <b><br>
  ------------------------------------------------------------------------------------
-##FrontEnd<br>
+FrontEnd<br>
 Spiner Adapter<br>
 Custom views and animation<br>
 --------------------------------------------------------------------------------------
-##Backend<br>
+Backend<br>
   Reterofit Library<br>
   Amerdo Api<br>
   Rest Countries API<br>
 --------------------------------------------------------------------------------------
-##Database<br>
+Database<br>
   Mysqli<br>
   
 -----------------------------------------------------------------------------------------
