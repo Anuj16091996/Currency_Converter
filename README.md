@@ -4,7 +4,7 @@ Created a Android application, which convert user designated currency to user me
 ##Features<br>
 Amount Conversion<br>
 Countries selection through Flags Dropdown<br>
-Displaying<br>
+Rendering<br>
 
  ------------------------------------------------------------------------------------
  FrontEnd<br>
